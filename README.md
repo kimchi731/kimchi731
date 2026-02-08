@@ -1,1 +1,1 @@
-21 y.o., город Санкт-Петербург. Обучаюсь на специалиста по кибербезопасности. Frontend dev.
+21 y.o. from Saint Petersburg. Cybersecurity student, frontend developer.
